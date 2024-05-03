@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>test</title>
+</head>
+<body>
+    <iframe
+        width="450"
+        height="250"
+        frameborder="0" style="border:0"
+        referrerpolicy="no-referrer-when-downgrade"
+        src="https://www.google.com/maps/embed/v1/place
+        ?key=AIzaSyAQ0DAw2W-fQrLI7GiWrjo8KJy-3tl1zvc
+        &q=Eiffel+Tower,Paris+France"
+        allowfullscreen>
+</iframe>
+</body>
+</html>
